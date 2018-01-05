@@ -1,0 +1,10 @@
+C:\Users\Nate\Desktop\CD\Sources\SampleNodes\obj\x64\Debug\SampleNodes.csprojResolveAssemblyReference.cache
+C:\Users\Nate\Desktop\CD\Sources\SampleNodes\obj\x64\Debug\SampleNodes.csproj.CoreCompileInputs.cache
+C:\Program Files\Thermo\Compound Discoverer 2.1\bin\Mahieu.RawData.Nodes.dll
+C:\Program Files\Thermo\Compound Discoverer 2.1\bin\Mahieu.RawData.Nodes.pdb
+C:\Users\Nate\Desktop\CD\Sources\SampleNodes\obj\x64\Debug\Mahieu.RawData.Nodes.dll
+C:\Users\Nate\Desktop\CD\Sources\SampleNodes\obj\x64\Debug\Mahieu.RawData.Nodes.pdb
+C:\Users\Nate\Desktop\NodeSource\SampleNodes\obj\x64\Debug\SampleNodes.csprojResolveAssemblyReference.cache
+C:\Users\Nate\Desktop\NodeSource\SampleNodes\obj\x64\Debug\SampleNodes.csproj.CoreCompileInputs.cache
+C:\Users\Nate\Desktop\NodeSource\SampleNodes\obj\x64\Debug\Mahieu.RawData.Nodes.dll
+C:\Users\Nate\Desktop\NodeSource\SampleNodes\obj\x64\Debug\Mahieu.RawData.Nodes.pdb

@@ -6,8 +6,8 @@ The data we generate uses a scan splicing approach similar to that applied here:
 
 This data is not natively compatible with Compound Discoverer.  There is a custom node written by Nate to make this compatible.
 ## Installation
- - Copy “Mahieu.RawData.Nodes.dll” to “C:\Program Files\Thermo\Compound Discoverer 2.1\bin”
- - In “C:\Program Files\Thermo\Compound Discoverer 2.1\bin” run the command (Figure 2):
+ - Copy “Mahieu.RawData.Nodes.dll” to “C:\Program Files\Thermo\Compound Discoverer 3.0\bin”
+ - In “C:\Program Files\Thermo\Compound Discoverer 3.0\bin” run the command (Figure 2):
     - ./Thermo.CompoundDiscoverer.Server.exe -Install
  - You can check that my node was found and registered in the output (Figure 2)
 Start CD with the command: (this command shows a window in which you can view the progress of the analysis.  Otherwise you can start CD normally.) (Figure 1)
@@ -26,4 +26,4 @@ Start CD with the command: (this command shows a window in which you can view th
  - Make sure the first scan range specified (Segment 1 Lower/Upper) corresponds to the first scan of the file
  - Make sure the scan ranges specified are non overlapping
  - Check for errors and warnings in the output.  The software will raise a warning if more than 10% of the mass peaks are discarded.
- - Tested on CD 2.1
+ - Tested on CD 3.0.0.260
